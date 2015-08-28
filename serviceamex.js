@@ -1,8 +1,8 @@
 var Service = require('node-windows').Service;
 
 var svc = new Service({
-  name:'GoAndSeeAmex',
-  description: 'Go and See Amex',
+  name:'GoAndSee',
+  description: 'GoAndSeeApp',
   script: 'E:\\GOANDSEE\\AmexService\\helloserver.js',
   maxRetries : 3
 });
