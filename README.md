@@ -18,4 +18,4 @@ Ir a C:\GOANDSEE\GoAndSeeService
 
 npm link node-windows
 
-node serviceamex.js
+node service.js
